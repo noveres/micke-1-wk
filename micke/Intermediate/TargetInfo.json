@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "micke",
+			"Path": "D:\\unreal c++\\micke-1-wk\\micke\\Source\\micke.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "mickeEditor",
+			"Path": "D:\\unreal c++\\micke-1-wk\\micke\\Source\\mickeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\micke.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D9192C48-7DCF-4BF2-9FF4-20E075717ACC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\micke.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\mickeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E29CE243-86A9-4231-90BF-CF6D5736F8BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\micke">
+      <UniqueIdentifier>{F3BDD2CD-7263-4FE6-8006-462E75AEDFC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\micke\micke.Build.cs">
+      <Filter>Source\micke</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\micke\micke.cpp">
+      <Filter>Source\micke</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\micke\micke.h">
+      <Filter>Source\micke</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\micke\mickeGameModeBase.cpp">
+      <Filter>Source\micke</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\micke\mickeGameModeBase.h">
+      <Filter>Source\micke</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

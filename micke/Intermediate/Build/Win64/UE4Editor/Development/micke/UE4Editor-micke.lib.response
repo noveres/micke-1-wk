@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-micke.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\mickeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\micke.cpp.obj"
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\mickeGameModeBase.cpp.obj"
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\micke.init.gen.cpp.obj"
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\mickeGameModeBase.gen.cpp.obj"
+"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\Default.rc2.res"
+/OUT:"D:\unreal c++\micke-1-wk\micke\Intermediate\Build\Win64\UE4Editor\Development\micke\UE4Editor-micke.lib"

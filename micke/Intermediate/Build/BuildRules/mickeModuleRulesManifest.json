@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\unreal c++\\micke-1-wk\\micke\\Source\\micke\\micke.Build.cs",
+		"D:\\unreal c++\\micke-1-wk\\micke\\Source\\micke.Target.cs",
+		"D:\\unreal c++\\micke-1-wk\\micke\\Source\\mickeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
